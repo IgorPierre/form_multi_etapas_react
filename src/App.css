@@ -1,0 +1,77 @@
+.app {
+    padding: 2rem;
+}
+
+.header {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+.header h2 {
+    color: #F2ECE9;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.form-container {
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #FFF;
+    padding: 2rem;
+    border-radius: 10px;
+}
+
+.form-container form {
+    max-height: 400px;
+    margin: 0 auto;
+}
+
+.inputs-container {
+    min-height: 220px;
+}
+
+.form-control {
+    display: flex;
+    flex-direction: column;
+    gap: .6rem;
+    margin-bottom: 2rem;
+}
+
+label {
+    font-weight: bold;
+    color: #3B3C59;
+    font-size: 1.2rem;
+}
+
+input, textarea {
+    padding: .6rem;
+    border: none;
+    border-radius: 3px;
+    box-shadow: rgba(59, 59, 59, 0.6) 0px 2px 8px 0px;
+}
+
+textarea {
+    height: 120px;
+}
+
+.actions {
+    display: flex;
+    justify-content: flex-end;
+    gap: 1rem;
+}
+
+.actions button {
+    font-size: .9rem;
+    padding: .5rem 1rem;
+    display: flex;
+    gap: .5rem;
+    border: none;
+    border-radius: 3px;
+    background-color: #DfDfDf;
+    cursor: pointer;
+
+    transition: .3s;
+}
+
+.actions button:hover {
+    background-color: #CfCfCf;
+}
