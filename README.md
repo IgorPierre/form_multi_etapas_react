@@ -16,7 +16,13 @@ Trata-se de um formulário de várias etapas, onde sempre que o usuário preench
 
 <p align="center">
   <img src="./src/assets/formulario.png" alt="imagem da aplicação" />
+</p>
+
+<p align="center">
   <img src="./src/assets/formulario2.png" alt="imagem da aplicação" />
+</p>
+
+<p align="center">
   <img src="./src/assets/formulario3.png" alt="imagem da aplicação" />
 </p>
 
