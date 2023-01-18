@@ -1,4 +1,4 @@
-## **<h2 align="center"> Loc-Movies 📽️</h2>**
+## **<h2 align="center"> Formulário Multietapas 📄</h2>**
 
 
 ## :pushpin: Sobre este projeto:
@@ -16,8 +16,8 @@ Trata-se de um formulário de várias etapas, onde sempre que o usuário preench
 
 <p align="center">
   <img src="./src/assets/formulario.png" alt="imagem da aplicação" />
-  <img src="./src/assets/formulario.png" alt="imagem da aplicação" />
-  <img src="./src/assets/formulario.png" alt="imagem da aplicação" />
+  <img src="./src/assets/formulario2.png" alt="imagem da aplicação" />
+  <img src="./src/assets/formulario3.png" alt="imagem da aplicação" />
 </p>
 
 <br>
